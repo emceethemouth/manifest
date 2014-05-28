@@ -17,7 +17,7 @@
            sync-j="4" />
 
 
-<project path="hammerhead" name="cyanhackx/kernel_cm_hammerhead" remote="github" revision="cm-11.0" />
-<project path="cm_ramdisk" name="cyanhackx/cm_ramdisk" remote="github" revision="kitkat" />
+<project path="hammerhead" name="emceethemouth/kernel_cm_hammerhead" remote="github" revision="cm-11.0" />
+<project path="cm_ramdisk" name="emceethemouth/cm_ramdisk" remote="github" revision="kitkat" />
 
 </manifest>
