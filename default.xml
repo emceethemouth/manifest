@@ -18,6 +18,6 @@
 
 
 <project path="hammerhead" name="emceethemouth/kernel_linux-3.4.y" remote="github" revision="mainstream" />
-<project path="cm_ramdisk" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="mainstream" />
+<project path="hammerhead_ramdisk" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="mainstream" />
 
 </manifest>
