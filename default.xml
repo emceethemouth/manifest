@@ -17,7 +17,7 @@
            sync-j="4" />
 
 
-<project path="hammerhead" name="android/kernel_msm" remote="github" revision="android-msm-hammerhead-3.4-kitkat-mr2" />
+<project path="hammerhead" name="emceethemouth/kernel" remote="github" revision="mr2" />
 <project path="ramdisk_hammerhead" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="mainstream" />
 
 </manifest>
