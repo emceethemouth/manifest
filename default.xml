@@ -18,6 +18,6 @@
 
 
 <project path="hammerhead" name="android/kernel_msm" remote="github" revision="android-msm-hammerhead-3.4-kitkat-mr2" />
-<project path="cm_ramdisk" name="emceethemouth/cm_ramdisk" remote="github" revision="kitkat" />
+<project path="ramdisk_hammerhead" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="mainstream" />
 
 </manifest>
