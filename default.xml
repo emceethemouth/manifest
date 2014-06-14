@@ -197,7 +197,7 @@
   <!-- Linaro modifications: Fixed aliasing violations, ISO C++11 support -->
   <project path="external/skia" name="TeamJB/linaro_external_skia" revision="linaro_android_4.4.3" groups="pdk" remote="github" />
   <!-- Linaro modifications: Add ECM -->
-  <project path="packages/apps/Settings" name="TeamJB/linaro_packages_apps_Settings" revision="linaro_android_4.4.3" remote="github" />
+  <project path="packages/apps/Settings" name="emceethemouth/platform_packages_apps_Settings" revision="linaro-4.4.3" remote="github" />
   <!-- Linaro modifications: ISO C++ 11 support -->
   <project path="packages/apps/Camera" name="TeamJB/linaro_packages_apps_Camera" revision="linaro_android_4.4.3" remote="github" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" revision="linaro_android_4.4.2" />
