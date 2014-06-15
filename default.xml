@@ -166,7 +166,7 @@
   <project path="vendor/asus" name="TeamJB/android_vendor_asus" groups="nexus7_2013" revision="linaro_android_4.4.3" remote="github" />
   <project path="device/lge/hammerhead" name="emceethemouth/platform_device_lge_hammerhead" remote="github" revision="linaro-4.4.3" />
   <project path="kernel/lge/hammerhead" name="TeamJB/android_kernel_lge_hammerhead" revision="linaro_android_4.4.3" groups="nexus5" remote="github" />
-  <project path="vendor/lge" name="TeamJB/android_vendor_lge" groups="nexus5" revision="linaro_android_4.4.3" remote="github" />
+  <project path="vendor/lge" name="emceethemouth/platform_vendor_lge" revision="linaro-4.4.3" remote="github" />
   <!-- <project path="device/asus/tilapia" name="device/asus/tilapia" groups="nexus7" /> -->
   <!-- Linaro modifications: Find omapfb.h -->
   <!-- FIXME The 4.0.4 branch has further changes that may need porting -->
