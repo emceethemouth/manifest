@@ -17,6 +17,6 @@
            sync-j="4" />
 
 
-<project path="hammerhead" name="SimpleAOSP/android_kernel_lge_mako" remote="github" revision="kitkat-mr2" />
+<project path="mako" name="SimpleAOSP/android_kernel_lge_mako" remote="github" revision="kitkat-mr2" />
 
 </manifest>
