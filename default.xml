@@ -18,6 +18,6 @@
 
 
 <project path="hammerhead_L" name="emceethemouth/kernel_hammerhead" remote="github" revision="android-L" />
-<project path="ramdisk_L" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="android-L" />
+<project path="ramdisk_L" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="master" />
 
 </manifest>
