@@ -4,8 +4,8 @@
   <remote name="aosp"
            fetch="https://android.googlesource.com" />
            
-  <remote name="github"
-            fetch="https://github.com/" />
+  <remote name="bitbucket"
+            fetch="https://bitbucket.org/" />
 
   <remote name="private"
            fetch="ssh://git@github.com" />
@@ -17,7 +17,6 @@
            sync-j="4" />
 
 
-<project path="hammerhead_L" name="emceethemouth/kernel_hammerhead" remote="github" revision="android-L" />
-<project path="ramdisk_L" name="emceethemouth/ramdisk_hammerhead" remote="github" revision="master" />
+<project path="arm-eabi-4.10" name="kikomachine/arm-eabi-4.10" remote="bitbucket" revision="master" />
 
 </manifest>
