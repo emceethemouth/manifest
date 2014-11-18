@@ -10,13 +10,13 @@
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-4.4.2_r1"
+  <default revision="refs/tags/android-5.0.0_r6"
            remote="aosp"
            sync-c="true"
            sync-f="true"
            sync-j="4" />
 
-
-<project path="mako" name="SimpleAOSP/android_kernel_lge_mako" remote="github" revision="mainstream" />
+<project path="mako" name="SimpleAOSP-Lollipop/platoform_kernel_lge_mako" remote="github" revision="Stuxnet" />
+<project path="ramdisk" name="emceethemouth/ramdisk_mako" remote="github" revision="Stuxnet" />
 
 </manifest>
