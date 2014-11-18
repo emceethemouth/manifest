@@ -18,5 +18,6 @@
 
 <project path="mako" name="SimpleAOSP-Lollipop/platform_kernel_lge_mako" remote="github" revision="Stuxnet" />
 <project path="ramdisk" name="emceethemouth/ramdisk_mako" remote="github" revision="Stuxnet" />
+<project path="build" name="emceethemouth/kernel_build" remote="github" revision="Stuxnet" />
 
 </manifest>
