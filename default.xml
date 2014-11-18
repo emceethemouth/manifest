@@ -16,7 +16,7 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="mako" name="SimpleAOSP-Lollipop/platoform_kernel_lge_mako" remote="github" revision="Stuxnet" />
+<project path="mako" name="SimpleAOSP-Lollipop/platform_kernel_lge_mako" remote="github" revision="Stuxnet" />
 <project path="ramdisk" name="emceethemouth/ramdisk_mako" remote="github" revision="Stuxnet" />
 
 </manifest>
