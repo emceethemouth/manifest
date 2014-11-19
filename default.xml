@@ -6,6 +6,9 @@
            
   <remote name="github"
             fetch="https://github.com/" />
+            
+  <remote name="bitbucket"
+            fetch="https://bitbucket.org/" />
 
   <remote name="private"
            fetch="ssh://git@github.com" />
@@ -19,5 +22,6 @@
 <project path="mako" name="SimpleAOSP-Lollipop/platform_kernel_lge_mako" remote="github" revision="Stuxnet" />
 <project path="ramdisk" name="emceethemouth/ramdisk_mako" remote="github" revision="Stuxnet" />
 <project path="build" name="emceethemouth/kernel_build" remote="github" revision="Stuxnet" />
+<project path="arm-eabi-4.9" name="jmabalot/sm-arm-eabi-4.9" remote="bitbucket" revision="master" />
 
 </manifest>
