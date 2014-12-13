@@ -19,7 +19,7 @@
            sync-f="true"
            sync-j="4" />
 
-<project path="mako" name="emceethemouth/kernel_mako" remote="github" revision="Stuxnet" />
+<project path="mako" name="Stuxnet-Kernel/kernel_mako" remote="github" revision="Stuxnet" />
 <project path="ramdisk" name="emceethemouth/ramdisk_mako" remote="github" revision="Stuxnet" />
 <project path="cyanogenmod" name="emceethemouth/cyanogen_ramdisk" remote="github" revision="master" />
 <project path="build" name="emceethemouth/kernel_build" remote="github" revision="Stuxnet" />
