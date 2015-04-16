@@ -17,6 +17,6 @@
            sync-j="4" />
 
 
-<project path="bacon" name="emceethemouth/kernel_bacon" remote="github" revision="bacon" />
+<project path="bacon" name="emceethemouth/kernel_cancro" remote="github" revision="darwin" />
 
 </manifest>
