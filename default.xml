@@ -18,5 +18,6 @@
 
 
 <project path="bacon" name="emceethemouth/kernel_cancro" remote="github" revision="darwin" />
+<project path="arm-eabi-4.8" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" groups="pdk,darwin,arm" />
 
 </manifest>
