@@ -10,7 +10,7 @@
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-4.4.2_r1"
+  <default revision="refs/tags/android-5.1_r5"
            remote="aosp"
            sync-c="true"
            sync-f="true"
