@@ -17,7 +17,7 @@
            sync-j="4" />
 
 
-<project path="bacon" name="emceethemouth/kernel_cancro" remote="github" revision="darwin" />
+<project path="cancro" name="emceethemouth/kernel_cancro" remote="github" revision="darwin" />
 <project path="arm-eabi-4.8" name="emceethemouth/darwin_arm_eabi_4.8" remote="github" revision="darwin" />
 
 </manifest>
