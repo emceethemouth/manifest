@@ -17,6 +17,6 @@
            sync-j="4" />
 
 
-<project path="cancro" name="emceethemouth/kernel_cancro" remote="github" revision="cm12.1-linux" />
+<project path="cancro" name="emceethemouth/kernel_cancro" remote="github" revision="cm-12.1" />
 
 </manifest>
