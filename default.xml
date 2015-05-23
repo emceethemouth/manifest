@@ -18,5 +18,7 @@
 
 
 <project path="cancro" name="emceethemouth/kernel_cancro" remote="github" revision="cm-12.1" />
+<project path="anykernel" name="emceethemouth/stuxnet_anykernel" remote="github" revision="master" />
+<project path="arm-eabi-4.8" name="emceethemouth/darwin_arm_eabi_4.8" remote="github" revision="darwin" />
 
 </manifest>
