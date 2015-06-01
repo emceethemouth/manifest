@@ -10,7 +10,7 @@
   <remote name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/tags/android-5.1.0_r5"
+  <default revision="refs/tags/android-5.1.1_r4"
            remote="aosp"
            sync-c="true"
            sync-f="true"
@@ -19,6 +19,6 @@
 
 <project path="cancro" name="emceethemouth/kernel_cancro" remote="github" revision="cm-12.1" />
 <project path="anykernel" name="emceethemouth/stuxnet_anykernel" remote="github" revision="master" />
-<project path="arm-eabi-4.8" name="emceethemouth/darwin_arm_eabi_4.8" remote="github" revision="darwin" />
+<project path="arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="pdk,linux,arm" />
 
 </manifest>
